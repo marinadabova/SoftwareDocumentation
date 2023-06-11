@@ -1,5 +1,6 @@
 # SoftwareDocumentation
 Selective course at FMI, Sofia University, 2022-2023
+
 During this course I was tasked with doing different types of assignments related to Software documentation:
 
 ## Technical documentation
